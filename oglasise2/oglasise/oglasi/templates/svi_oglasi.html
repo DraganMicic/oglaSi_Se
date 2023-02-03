@@ -1,0 +1,72 @@
+{%  extends 'master.html' %}
+
+{% block title %}
+   Svi oglasi (home)
+{% endblock %}
+
+{%  block content %}
+    <h2>OGLASI </h2>
+    <br>
+
+    <div>
+        <h3>Raspodela oglasa po mestima:</h3>
+        <canvas id="pie-chart"></canvas>
+        <br>
+        <h3>Svi oglasi:</h3>
+        <h5>(vidi detalje klikom na oglas)</h5>
+        <table class="table table-hover">
+          <thead style="background-color: #215987; color: #e5e1dc">
+            <tr>
+                <th scope="col">id</th>
+                <th scope="col">Naslov</th>
+                <th scope="col">Kategorija</th>
+                <th scope="col">Mesto</th>
+                <th scope="col">Datum dodavanja</th>
+                <th scope="col">Korisnik</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for oglas in oglasi %}
+                <tr style="transform: rotate(0);">
+                    <th scope="row"><a href="{% url 'oglasi_app:oglas' oglas.id %}" class="stretched-link">{{ oglas.id }}</a></th>
+                    <td>{{ oglas.naslov }}</td>
+                    <td>{{ oglas.kategorija.naziv }}</td>
+                    <td>{{ oglas.mesto }}</td>
+                    <td>{{ oglas.datumDodavanja }}</td>
+                    <td>{{ oglas.korisnik.username }}</td>
+
+                </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+
+    <script>
+        kita = function (){
+            return 2
+        }
+
+        var config = {
+          type: 'pie',
+          data: {
+            datasets: [{
+              data: {{ data|safe }},
+              backgroundColor: ['#32a852', '#a84432', '#3240a8', '#3277a8', '#fcba03','#8403fc', '#fc037f']
+            }],
+            labels: {{ labels|safe }}
+          },
+          options: {
+            responsive: true
+          }
+        };
+
+        window.onload = function() {
+          var ctx = document.getElementById('pie-chart').getContext('2d');
+          window.myPie = new Chart(ctx, config);
+        };
+
+      </script>
+
+{% endblock %}

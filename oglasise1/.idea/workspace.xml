@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6ad48b7-a3b5-4a19-acd4-51e7d4c5f87c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nZshajRA4NlehLK6tLRSkAqanh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.22" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dist" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\oglaSi_Se\oglasise1\dist" />
+      <recent name="D:\oglaSi_Se\oglasise1\oglas\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\oglaSi_Se\oglasise1\oglas\public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6ad48b7-a3b5-4a19-acd4-51e7d4c5f87c" name="Default Changelist" comment="" />
+      <created>1611609066419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611609066419</updated>
+      <workItem from="1611609067484" duration="84721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611609777531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611609777531" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611620661165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611620661165" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1611913969708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611913969708" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1611913969707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611913969707" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1611913969707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611913969707" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1611913969708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611913969708" />
+    <state x="-1597" y="95" width="1350" height="754" key="dock-window-1" timestamp="1611703424250">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1597" y="95" width="1350" height="754" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611703424250" />
+    <state x="-1699" y="98" width="1350" height="754" key="dock-window-2" timestamp="1611712701740">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1699" y="98" width="1350" height="754" key="dock-window-2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611712701740" />
+    <state x="-1535" y="101" width="1350" height="754" key="dock-window-3" timestamp="1611759629458">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1535" y="101" width="1350" height="754" key="dock-window-3/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611759629458" />
+    <state x="-1785" y="-12" width="1350" height="841" maximized="true" key="dock-window-4" timestamp="1611777012977">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1785" y="-12" width="1350" height="841" maximized="true" key="dock-window-4/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611777012977" />
+    <state x="-1518" y="75" width="1350" height="841" key="dock-window-5" timestamp="1611876593321">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1518" y="75" width="1350" height="841" key="dock-window-5/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611876593321" />
+    <state x="244" y="155" width="1350" height="841" key="dock-window-6" timestamp="1611877069861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="244" y="155" width="1350" height="841" key="dock-window-6/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611877069861" />
+    <state x="-1602" y="63" width="1350" height="841" key="dock-window-7" timestamp="1611877069861">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1602" y="63" width="1350" height="841" key="dock-window-7/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611877069861" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1611711601306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1611711601306" />
+  </component>
+</project>
